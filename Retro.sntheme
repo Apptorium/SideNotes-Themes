@@ -1,0 +1,91 @@
+{
+    "$schema": "https://www.apptorium.com/schemas/sntheme.json",
+    "any": {
+        "systemAppearance": "dark",
+        "folders": {
+            "header": {
+                "backgroundColor": "#000000aa",
+                "enableVisualEffects": true,
+                "textColor": "#149414",
+                "buttonColor": "#149414c7"
+            },
+            "list": {
+                "backgroundColor": "#000000aa",
+                "enableVisualEffects": true,
+                "textColor": "#149414",
+                "buttonColor": "#149414c7",
+                "secondaryTextColor": "#149414a1"
+            },
+            "cleanFolderColor": "#149414"
+        },
+        "folder": {
+            "header": {
+                "backgroundColor": "#000000aa",
+                "enableVisualEffects": true,
+                "textColor": "#149414",
+                "buttonColor": "#149414c7"
+            },
+            "notes": {
+                "clean": {
+                    "backgroundColor": "#000000aa", 
+                    "enableVisualEffects": true,
+                    "textColor": "#129712",
+                    "secondaryTextColor": "#149414",
+                    "tertiaryTextColor": "#669666b6",
+                    "linkColor": "#003cff",
+                    "buttonColor": "#149414c7",
+                    "quote": {
+                        "textColor": "#9ccc9c"
+                    },
+                    "mark": {
+                        "backgroundColor": "#00bb10"
+                    },
+                    "codeBlock": {
+                        "textColor": "#62c05d"
+                    },
+                    "code": {
+                        "textColor": "#62c05d"
+                    },
+                    "checkMark": {
+                        "borderColor": "#0e6b0e",
+                        "backgroundColor": "#ffffff00",
+                        "doneBorderColor": "#0e6b0e",
+                        "doneBackgroundColor": "#ffffff00",
+                        "checkMarkColor": "#0e6b0e"
+                    },
+                    "filePreview": {
+                        "backgroundColor": "#2b532999"
+                    }
+                },
+                "colors": [
+                    {
+                        "backgroundColor": "#550404"
+                    },
+                    {
+                        "backgroundColor": "#0a3a12"
+                    },
+                    {
+                        "backgroundColor": "#001b93",
+                        "linkColor": "#436fff"
+                    },
+                    {
+                        "backgroundColor": "#251c00"
+                    },
+                    {
+                        "backgroundColor": "#370038"
+                    },
+                    {
+                        "backgroundColor": "#2e2e2e"
+                    }
+                ]
+            }
+        },
+        "search": {
+            "backgroundColor": "#000000",
+            "enableVisualEffects": true,
+            "searchField": {
+                "textColor": "#149414"
+            }
+        }
+    }
+}

@@ -1,0 +1,190 @@
+{
+    "$schema": "https:\/\/www.apptorium.com\/schemas\/sntheme.json",
+    "light": {
+        "folders": {
+            "header": {
+                "enableVisualEffects": true,
+                "backgroundColor": "#fff",
+                "textColor": "#333",
+                "buttonColor": "#000"
+            },
+            "list": {
+                "enableVisualEffects": true,
+                "backgroundColor": "#fff",
+                "buttonColor": "#000"
+            },
+            "cleanFolderColor": "#000"
+        },
+        "folder": {
+            "header": {
+                "enableVisualEffects": true,
+                "backgroundColor": "#fff",
+                "textColor": "#333",
+                "buttonColor": "#000"
+            },
+            "notes": {
+                "clean": {
+                    "enableVisualEffects": true,
+                    "textColor": "#333",
+                    "backgroundColor": "#fff",
+                    "linkColor": "#00e",
+                    "buttonColor": "#000",
+                    "secondaryTextColor": "#777",
+                    "tertiaryTextColor": "#00000055",
+                    "header": {
+                        "textColor": "#000"
+                    },
+                    "code": {
+                        "textColor": "#00000055"
+                    },
+                    "codeBlock": {
+                        "textColor": "#00000055"
+                    },
+                    "quote": {
+                        "textColor": "#00000055"
+                    },
+                    "mark": {
+                        "backgroundColor": "#00000055"
+                    },
+                    "markdownMarkup": {
+                        "textColor": "#00000044"
+                    }
+                },
+                "colors": [
+                    {
+                        "backgroundColor": "#ffcedc",
+                        "barColor": "#ff86a9"
+                    },
+                    {
+                        "backgroundColor": "#e0ffcf",
+                        "barColor": "#b3ff8a"
+                    },
+                    {
+                        "backgroundColor": "#d1ddff",
+                        "barColor": "#85a6ff"
+                    },
+                    {
+                        "backgroundColor": "#ffface",
+                        "barColor": "#fff48d"
+                    },
+                    {
+                        "backgroundColor": "#d0bcff",
+                        "barColor": "#a883ff"
+                    },
+                    {
+                        "backgroundColor": "#dfdfdf",
+                        "barColor": "#9e9e9e"
+                    }
+                ]
+            }
+        },
+        "search": {
+            "backgroundColor": "#fff",
+            "searchField": {
+                "backgroundColor": "#fff",
+                "textColor": "#333",
+                "shadow": {
+                    "backgroundColor": "#00000000",
+                    "blurRadius": 0,
+                    "offsetX": 0,
+                    "offsetY": 0
+                }
+            },
+            "enableVisualEffects": true
+        }
+    },
+    "dark": {
+        "folders": {
+            "header": {
+                "enableVisualEffects": true,
+                "backgroundColor": "#111",
+                "textColor": "#fff",
+                "buttonColor": "#eee"
+            },
+            "list": {
+                "enableVisualEffects": true,
+                "backgroundColor": "#111",
+                "buttonColor": "#eee"
+            },
+            "cleanFolderColor": "#fff"
+        },
+        "folder": {
+            "header": {
+                "enableVisualEffects": true,
+                "backgroundColor": "#111",
+                "textColor": "#fff",
+                "buttonColor": "#eee"
+            },
+            "notes": {
+                "clean": {
+                    "enableVisualEffects": true,
+                    "textColor": "#eee",
+                    "backgroundColor": "#111",
+                    "linkColor": "#eee",
+                    "buttonColor": "#bbb",
+                    "secondaryTextColor": "#bbb",
+                    "tertiaryTextColor": "#777",
+                    "header": {
+                        "textColor": "#fff"
+                    },
+                    "code": {
+                        "textColor": "#eee"
+                    },
+                    "codeBlock": {
+                        "textColor": "#eee"
+                    },
+                    "quote": {
+                        "textColor": "#999"
+                    },
+                    "mark": {
+                        "backgroundColor": "#aaa"
+                    },
+                    "markdownMarkup": {
+                        "textColor": "#444"
+                    },
+                    "checkMark": {
+                        "backgroundColor": "#00000000",
+                        "borderColor": "#aaa",
+                        "checkMarkColor": "#fff",
+                        "doneBackgroundColor": "#ffffff00",
+                        "doneBorderColor": "#aaa"
+                    }
+                },
+                "colors": [
+                    {
+                        "backgroundColor": "#310408"
+                    },
+                    {
+                        "backgroundColor": "#101f07"
+                    },
+                    {
+                        "backgroundColor": "#0e2155"
+                    },
+                    {
+                        "backgroundColor": "#272620"
+                    },
+                    {
+                        "backgroundColor": "#210047"
+                    },
+                    {
+                        "backgroundColor": "#141414"
+                    }
+                ]
+            }
+        },
+        "search": {
+            "backgroundColor": "#111",
+            "searchField": {
+                "backgroundColor": "#00000000",
+                "textColor": "#fff",
+                "shadow": {
+                    "backgroundColor": "#00000033",
+                    "blurRadius": 2,
+                    "offsetX": 0,
+                    "offsetY": -1
+                }
+            },
+            "enableVisualEffects": true
+        }
+    }
+}

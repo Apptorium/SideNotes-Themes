@@ -1,0 +1,76 @@
+{
+    "$schema": "https:\/\/www.apptorium.com\/schemas\/sntheme.json",
+    "any": {
+        "folders": {
+            "header": {
+                "backgroundColor": "#2b373f"
+            },
+            "list": {
+                "backgroundColor": "#36454F"
+            },
+            "cleanFolderColor": "#00a693"
+        },
+        "folder": {
+            "header": {
+                "backgroundColor": "#2b373f"
+            },
+            "notes": {
+                "clean": {
+                    "textColor": "#fffff0",
+                    "backgroundColor": "#36454F",
+                    "linkColor": "#ac7a33",
+                    "header": {
+                        "textColor": "#ffffd2"
+                    },
+                    "code": {
+                        "textColor": "#00a693"
+                    },
+                    "codeBlock": {
+                        "textColor": "#00a693"
+                    },
+                    "quote": {
+                        "textColor": "#ffffffcc"
+                    },
+                    "mark": {
+                        "backgroundColor": "#00a693",
+                        "textColor": "#f1f1f1"
+                    }
+                },
+                "colors": [
+                    {
+                        "backgroundColor": "#3a3431"
+                    },
+                    {
+                        "backgroundColor": "#4d5d53"
+                    },
+                    {
+                        "backgroundColor": "#003153"
+                    },
+                    {
+                        "backgroundColor": "#685f39"
+                    },
+                    {
+                        "backgroundColor": "#5b5d74"
+                    },
+                    {
+                        "backgroundColor": "#616161"
+                    }
+                ]
+            }
+        },
+        "search": {
+            "backgroundColor": "#36454F",
+            "searchField": {
+                "backgroundColor": "#36454F",
+                "textColor": "#eee",
+                "shadow": {
+                    "color": "#00000000",
+                    "blurRadius": 0,
+                    "offsetX": 0,
+                    "offsetY": 0
+                }
+            },
+            "enableVisualEffects": true
+        }
+    }
+}
