@@ -2,6 +2,7 @@
     "$schema": "https://www.apptorium.com/schemas/sntheme.json",
     "any": {
         "systemAppearance": "dark",
+        "accentColor": "#67B7A4",
         "folders": {
             "header": {
                 "backgroundColor": "#14191F99",

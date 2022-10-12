@@ -1,6 +1,10 @@
 {
     "$schema": "https:\/\/www.apptorium.com\/schemas\/sntheme.json",
     "light": {
+        "accentColor": "#00ADB5",
+        "iOS": {
+            "windowBackgroundColor": "#D0DDEF"
+        },
         "folders": {
             "header": {
                 "backgroundColor": "#c3cfe0"
@@ -11,6 +15,7 @@
             "cleanFolderColor": "#00ADB5"
         },
         "folder": {
+            "backgroundColor": "#D0DDEF",
             "header": {
                 "backgroundColor": "#c3cfe0"
             },
@@ -92,6 +97,10 @@
         }
     },
     "dark": {
+        "accentColor": "#00ADB5",
+        "iOS": {
+            "windowBackgroundColor": "#494f59"
+        },
         "folders": {
             "header": {
                 "backgroundColor": "#393E46"
@@ -102,6 +111,7 @@
             "cleanFolderColor": "#00ADB5"
         },
         "folder": {
+            "backgroundColor": "#494f59",
             "header": {
                 "backgroundColor": "#393E46"
             },
@@ -130,14 +140,14 @@
                 "colors": [
                     {
                         "backgroundColor": "#884743",
-                        "linkColor": "#3f0715",
+                        "linkColor": "#ff7c9d",
                         "textColor": "#fff",
                         "code": { "textColor": "#00ADB5" },
                         "codeBlock": { "textColor": "#00ADB5" }
                     },
                     {
                         "backgroundColor": "#4a6d45",
-                        "linkColor": "#770924",
+                        "linkColor": "#ff0040",
                         "textColor": "#fff",
                         "quote": { "textColor": "#ddd" }
                     },
@@ -149,14 +159,14 @@
                     },
                     {
                         "backgroundColor": "#6d6334",
-                        "linkColor": "#69061f"
+                        "linkColor": "#ff0040"
                     },
                     {
                         "backgroundColor": "#4a436e"
                     },
                     {
                         "backgroundColor": "#616161",
-                        "linkColor": "#69061f"
+                        "linkColor": "#ff0040"
                     }
                 ]
             }

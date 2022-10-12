@@ -1,6 +1,10 @@
 {
     "$schema": "https:\/\/www.apptorium.com\/schemas\/sntheme.json",
     "light": {
+        "accentColor": "#000",
+        "iOS": {
+            "windowBackgroundColor": "#f5f5f5"
+        },
         "folders": {
             "header": {
                 "enableVisualEffects": true,
@@ -16,6 +20,7 @@
             "cleanFolderColor": "#000"
         },
         "folder": {
+            "backgroundColor": "#eee",
             "header": {
                 "enableVisualEffects": true,
                 "backgroundColor": "#fff",
@@ -94,6 +99,7 @@
         }
     },
     "dark": {
+        "accentColor": "#fff",
         "folders": {
             "header": {
                 "enableVisualEffects": true,

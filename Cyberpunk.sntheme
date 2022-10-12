@@ -2,6 +2,10 @@
     "$schema": "https://www.apptorium.com/schemas/sntheme.json", 
     "any": {
         "systemAppearance": "dark",
+        "accentColor": "#00ff9c",
+        "iOS": {
+            "windowBackgroundColor": "#032314"
+        },
         "folders": {
             "header": {
                 "backgroundColor": "#2c1c6b",
@@ -19,6 +23,7 @@
             "cleanFolderColor": "#00ff9c"
         },
         "folder": {
+            "backgroundColor": "#02140b",
             "header": {
                 "backgroundColor": "#2c1c6b",
                 "buttonColor": "#9f5fff",

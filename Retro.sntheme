@@ -1,6 +1,7 @@
 {
     "$schema": "https://www.apptorium.com/schemas/sntheme.json",
     "any": {
+        "accentColor": "#149414c7",
         "systemAppearance": "dark",
         "folders": {
             "header": {
@@ -19,6 +20,7 @@
             "cleanFolderColor": "#149414"
         },
         "folder": {
+            "backgroundColor": "#111111",
             "header": {
                 "backgroundColor": "#000000aa",
                 "enableVisualEffects": true,

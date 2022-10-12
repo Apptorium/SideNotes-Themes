@@ -1,6 +1,14 @@
 {
     "$schema": "https:\/\/www.apptorium.com\/schemas\/sntheme.json",
     "light": {
+        "accentColor": "#cefb2a",
+        
+        "iOS": {
+            "windowBackgroundColor": "#89A5BF",
+            "rowBackground": "#06111c11",
+            "selectedRowBackground": "#06111c11"
+        },
+         
         "folders": {
             "header": {
                 "backgroundColor": "#06315c99",
@@ -18,6 +26,7 @@
             "cleanFolderColor": "#cefb2a"
         },
         "folder": {
+            "backgroundColor": "#89A5BF",
             "header": {
                 "backgroundColor": "#06315c99",
                 "buttonColor": "#cefb2a",
@@ -120,6 +129,14 @@
         }
     },
     "dark": {
+        "accentColor": "#cefb2a",
+        
+        "iOS": {
+            "windowBackgroundColor": "#0E1A25",
+            "rowBackground": "#06111c",
+            "selectedRowBackground": "#06111c"
+        },
+        
         "folders": {
             "header": {
                 "backgroundColor": "#06315c77",
@@ -136,6 +153,7 @@
             "cleanFolderColor": "#cefb2a"
         },
         "folder": {
+            "backgroundColor": "#06111c",
             "header": {
                 "backgroundColor": "#06315c77",
                 "buttonColor": "#cefb2a",
