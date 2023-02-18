@@ -1,0 +1,108 @@
+{
+    "$schema": "https://www.apptorium.com/schemas/sntheme.json",
+    "light": {
+        "folder": {
+            "notes": {
+                "clean": {
+                    "code": {
+                        "textColor": "#00000077"
+                    },
+                    "codeBlock": {
+                        "textColor": "#00000077"
+                    },
+                    "quote": {
+                        "textColor": "#00000077"
+                    }
+                },
+                "colors": [
+                    {
+                        "backgroundColor": "#FFA6A1"
+                    },
+                    {
+                        "backgroundColor": "#98E486"
+                    },
+                    {
+                        "backgroundColor": "#8CC6FF"
+                    },
+                    {
+                        "backgroundColor": "#FEE162"
+                    },  
+                    {
+                        "backgroundColor": "#E1A6FF"
+                    },
+                    {
+                        "backgroundColor": "#B3B3B3"
+                    }
+                ]
+            }
+        },
+        "search": {
+            "searchField": {
+                "backgroundColor": "#ffffffdd",
+                "textColor": "#000000cc",
+                "shadow": {
+                    "blurRadius": 0,
+                    "offsetY": 0
+                }
+            }
+        }
+    },
+    "dark": {
+        "folder": {
+            "notes": {
+                "clean": {
+                    "code": {
+                        "textColor": "#ffffff99"
+                    },
+                    "codeBlock": {
+                        "textColor": "#ffffff99"
+                    },
+                    "quote": {
+                        "textColor": "#ffffff99"
+                    }
+                },
+                "colors": [
+                    {
+                        "backgroundColor": "#D75750",
+                        "textColor": "#ffffff",
+                        "linkColor": "#11489a"
+                    },
+                    {
+                        "backgroundColor": "#409B67",
+                        "textColor": "#ffffff",
+                        "linkColor": "#11489a"
+                    },
+                    {
+                        "backgroundColor": "#4D9EED",
+                        "textColor": "#ffffff",
+                        "linkColor": "#11489a"
+                    },
+                    {
+                        "backgroundColor": "#E1AB58",
+                        "textColor": "#ffffff",
+                        "linkColor": "#11489a"
+                    },
+                    {
+                        "backgroundColor": "#AB5FD1",
+                        "textColor": "#ffffff",
+                        "linkColor": "#11489a"
+                    },
+                    {
+                        "backgroundColor": "#979797",
+                        "textColor": "#ffffff",
+                        "linkColor": "#11489a"
+                    }
+                ]
+            }
+        },
+        "search": {
+            "searchField": {
+                "backgroundColor": "#00000033",
+                "shadow": {
+                    "blurRadius": 0,
+                    "offsetY": 0
+                }
+            }
+        }
+    }
+}
