@@ -1,0 +1,227 @@
+{
+    "$schema": "https:\/\/www.apptorium.com\/schemas\/sntheme.json",
+    "dark": {
+        "systemAppearance": "dark",
+        "folders": {
+            "header": {
+                "backgroundColor": "#1c1b1bc0",
+                "buttonColor": "#894e8ac4",
+                "textColor": "#4ac4cb"
+            },
+            "list": {
+                "backgroundColor": "#1c1b1b99",
+                "buttonColor": "#aea891",
+                "textColor": "#74b3b7",
+                "secondaryTextColor": "#aea891"
+            },
+            "cleanFolderColor": "#894e8ac4"
+        },
+        "folder": {
+            "header": {
+                "backgroundColor": "#1c1b1bbb",
+                "buttonColor": "#894e8ac4",
+                "textColor": "#74b3b7"
+            },
+            "notes": {
+                "clean": {
+                    "textColor": "#e7e4dbd7",
+                    "secondaryTextColor": "#e4dfcdc4",
+                    "backgroundColor": "#1c1b1bf1",
+                    "buttonColor": "#74b3b7",
+                    "linkColor": "#4acbd1",
+                    "header": {
+                        "textColor": "#d3caab"
+                    },
+                    "checkMark": {
+                        "backgroundColor": "#43404080",
+                        "borderColor": "#586d73aa",
+                        "checkMarkColor": "#68a3a6",
+                        "doneBackgroundColor": "#4f6f764c",
+                        "doneBorderColor": "#3e849563"
+                    },
+                    "code": {
+                        "textColor": "#9ee9ed"
+                    },
+                    "codeBlock": {
+                        "textColor": "#eed8d8"
+                    },
+                    "quote": {
+                        "textColor": "#f767adea"
+                    },
+                    "mark": {
+                        "backgroundColor": "#d8d0b7cf"
+                    },
+                    "filePreview": {
+                        "textColor": "#f2efe2"
+                    }
+                },
+                "colors": [
+                    {
+                        "textColor": "#d9ebeb",
+                        "secondaryTextColor": "#e0c7d6",
+                        "backgroundColor": "#23182fef",
+                        "buttonColor": "#74b3b7",
+                        "linkColor": "#4acbd1",
+                        "header": {
+                            "textColor": "#d3caab"
+                        },
+                        "code": {
+                            "textColor": "#9ee9ed"
+                        },
+                        "codeBlock": {
+                            "textColor": "#d8cbcb"
+                        },
+                        "quote": {
+                            "textColor": "#f767adea"
+                        },
+                        "mark": {
+                            "backgroundColor": "#d8d0b7cf"
+                        },
+                        "filePreview": {
+                            "textColor": "#f2efe2"
+                        }
+                    },
+                    {
+                        "textColor": "#d9ebeb",
+                        "secondaryTextColor": "#b8cde3",
+                        "backgroundColor": "#172034f4",
+                        "buttonColor": "#74b3b7",
+                        "linkColor": "#4acbd1",
+                        "header": {
+                            "textColor": "#d3caab"
+                        },
+                        "code": {
+                            "textColor": "#9ee9ed"
+                        },
+                        "codeBlock": {
+                            "textColor": "#c6c0c0"
+                        },
+                        "quote": {
+                            "textColor": "#f767adea"
+                        },
+                        "mark": {
+                            "backgroundColor": "#d8d0b7cf"
+                        },
+                        "filePreview": {
+                            "textColor": "#f2efe2"
+                        }
+                    },
+                    {
+                        "textColor": "#d9ebeb",
+                        "secondaryTextColor": "#babebe",
+                        "backgroundColor": "#122515f2",
+                        "buttonColor": "#74b3b7",
+                        "linkColor": "#4acbd1",
+                        "header": {
+                            "textColor": "#d3caab"
+                        },
+                        "code": {
+                            "textColor": "#9ee9ed"
+                        },
+                        "codeBlock": {
+                            "textColor": "#c6c0c0"
+                        },
+                        "quote": {
+                            "textColor": "#f767adea"
+                        },
+                        "mark": {
+                            "backgroundColor": "#d8d0b7cf"
+                        },
+                        "filePreview": {
+                            "textColor": "#f2efe2"
+                        }
+                    },
+                    {
+                        "textColor": "#f2efe2",
+                        "secondaryTextColor": "#ebd0c0",
+                        "backgroundColor": "#281516ee",
+                        "buttonColor": "#74b3b7",
+                        "linkColor": "#4acbd1",
+                        "header": {
+                            "textColor": "#d3caab"
+                        },
+                        "code": {
+                            "textColor": "#9ee9ed"
+                        },
+                        "codeBlock": {
+                            "textColor": "#e1c09d"
+                        },
+                        "quote": {
+                            "textColor": "#f767adea"
+                        },
+                        "mark": {
+                            "backgroundColor": "#d8d0b7cf"
+                        },
+                        "filePreview": {
+                            "textColor": "#f2efe2"
+                        }
+                    },
+                    {
+                        "textColor": "#f2efe2",
+                        "secondaryTextColor": "#d5e1b0",
+                        "backgroundColor": "#232015f1",
+                        "buttonColor": "#74b3b7",
+                        "linkColor": "#4acbd1",
+                        "header": {
+                            "textColor": "#d3caab"
+                        },
+                        "code": {
+                            "textColor": "#9ee9ed"
+                        },
+                        "codeBlock": {
+                            "textColor": "#e1c09d"
+                        },
+                        "quote": {
+                            "textColor": "#f767adea"
+                        },
+                        "mark": {
+                            "backgroundColor": "#d8d0b7cf"
+                        },
+                        "filePreview": {
+                            "textColor": "#f2efe2"
+                        }
+                    },
+                    {
+                        "textColor": "#f2efe2",
+                        "secondaryTextColor": "#f2efe2",
+                        "backgroundColor": "#3e1638ee",
+                        "buttonColor": "#74b3b7",
+                        "linkColor": "#4acbd1",
+                        "header": {
+                            "textColor": "#d3caab"
+                        },
+                        "code": {
+                            "textColor": "#9ee9ed"
+                        },
+                        "codeBlock": {
+                            "textColor": "#d2c3c3"
+                        },
+                        "quote": {
+                            "textColor": "#f767adea"
+                        },
+                        "mark": {
+                            "backgroundColor": "#d8d0b7cf"
+                        },
+                        "filePreview": {
+                            "textColor": "#f2efe2"
+                        }
+                    }
+                ]
+            }
+        },
+        "search": {
+            "backgroundColor": "#1c1b1b99",
+            "searchField": {
+                "backgroundColor": "#1c1b1b99",
+                "textColor": "#5998bb",
+                "shadow": {
+                    "backgroundColor": "#00000033",
+                    "blurRadius": 0,
+                    "offsetX": 0,
+                    "offsetY": 0
+                }
+            },
+            "enableVisualEffects": true
+        }
+    }
+}
