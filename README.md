@@ -9,5 +9,5 @@ Themes for [SideNotes](https://www.apptorium.com/sidenotes) app.
 * [Installing Themes](https://www.apptorium.com/sidenotes/tips/how-to-install-themes)
 
 # Acknowledgements
-* Cyberpunk theme is inspired by (Cyberpunk for Visual Studio Code)[https://github.com/prometheux-ar/cyberpunk]
-* City Lights theme is inspired by (CityLights)[https://citylights.xyz]
+* Cyberpunk theme is inspired by [Cyberpunk for Visual Studio Code](https://github.com/prometheux-ar/cyberpunk)
+* City Lights theme is inspired by [CityLights](https://citylights.xyz)
